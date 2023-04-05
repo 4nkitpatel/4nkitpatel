@@ -17,16 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/4nkitpatel"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>&nbsp;
-<!-- <a href="https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar"><img src="https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar.svg?style=for-the-badge" alt="Wakatime" /></a>-->
-&nbsp;
-
 
 </p>
-
-
-
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px" />
 
