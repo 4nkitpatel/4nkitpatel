@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="http://mail.to:4nkitpatel@gmail.com">Mail</a>.
 - ⚡ Fun fact: I am Intrested in studying human internal system and love reading Spiritual Books.
 
-*Languages and Tools:*
+
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
