@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Front-End and Open source projects.
 - 🤔 I’m looking for help with Typescript.
 - 💬 Ask me about JavaScript/ReactJs/NextJs/NodeJs .
-- 📫 How to reach me: <a href="http://mail.to:4nkitpatel@gmail.com">Mail</a>.
+- 📫 How to reach me: <a href="mailto:4nkitpatel@gmail.com" target="_top">Mail</a>.
 - ⚡ Fun fact: I am Intrested in studying human internal system and love reading Spiritual Books.
 
 
